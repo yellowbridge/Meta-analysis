@@ -1,9 +1,7 @@
-# Meta-analysis
-summarized materials about meta-analysis 
+# Meta-analysis (for sharing)
+--- 
+### 1. common effect measures in meta-analysis
 
-Date: 2019-07-01
+-  Date: 2019-07-01
 
-##common effect measures in meta-analysis
-
-update date :2019-07-01
 
